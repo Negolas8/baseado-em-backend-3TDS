@@ -8,6 +8,9 @@ let transporte = "Carro";
 
 const jogador = "Felipe Da Silva";
 const nomeJogador = "Ice";
-const Time: "Hunters";
-const Jogo: "Apex",
+const Time = "Hunters";
+const Jogo = "Apex";
+let funcao = "Jogador profissional";
+
+console.log (`${jogador} ganhou todos os jogos pelo time ganhador ${time} ${Jogo} pronto para exercer seu cargo de ${nomeJogador}.`);
 
