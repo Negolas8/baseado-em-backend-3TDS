@@ -1,0 +1,12 @@
+{
+    "matricula": "2026AB12",
+    "nome": "Lucas Almeida",
+    "Idade": 21,
+    "curso": "Sistema de Informação",
+    "notas": [8.5, 9.0, 7.5, 5.0],
+    "bolsista": true,
+    "endereco": {
+        "cidade": "Curitiba",   
+        "estado": "PR"
+    }
+}
